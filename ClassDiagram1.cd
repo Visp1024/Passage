@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ButtonAnimation">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAABAAIAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ButtonAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameHelper">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAABAAAAEAgAAQAAAgAABAAAAgIAABABAA=</HashCode>
+      <FileName>Assets\Scripts\GameHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLogic">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BFcBQCBgBCDgEIABEIARhBIQCJgwQAAgAxAAAWCkAAI=</HashCode>
+      <FileName>Assets\Scripts\GameLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneralOptions">
+    <Position X="15.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAQEAAGAAAAAAAAAAAAAAIAAAAAAAAgAAAAIAAAI=</HashCode>
+      <FileName>Assets\Scripts\GeneralOptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Global">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KolvoPlayers">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\KolvoPlayers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuMusic" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\MenuMusic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetTest">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQCAAAgAEDGABAQAAAEAEAQAEAAAAAGAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\NetTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Options">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAAACCAAAGAAAgAAAAAAAAggCAIAACAAAAQiACA=</HashCode>
+      <FileName>Assets\Scripts\Options.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerHelper" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAkDEABAAAAAAAAAQAAAAAAAEAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SetAudio" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAABAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SetAudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartGame">
+    <Position X="13.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAABAAAAAAAAAAAAAAAAAAQIAAAgCAAAgA=</HashCode>
+      <FileName>Assets\Scripts\StartGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="targetcam">
+    <Position X="8.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAAAAIAQAAAAAAAAAAgAQMQIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\targetcam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

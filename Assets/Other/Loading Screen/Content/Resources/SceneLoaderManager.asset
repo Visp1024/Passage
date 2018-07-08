@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7decf71d60cb2fe438b4d9a0a160a517, type: 3}
+  m_Name: SceneLoaderManager
+  m_EditorClassIdentifier: 
+  SceneList:
+  - SceneName: LoadExample
+    DisplayName: This Example Name
+    Description: Prompta noluisse verterem sed eu, mundi graece eum in. Vis ut alia
+      euismod tincidunt, per no ubique euismod. Indoctum qualisque vituperata an his.
+      Timeam feugait id mel, vis in iuvaret fabulas. Quis veri diceret vix in, numquam
+      praesent elaboraret eum ne.
+    Backgrounds:
+    - {fileID: 21300000, guid: 2650407d6311724489f3256696e75bb0, type: 3}
+    - {fileID: 21300000, guid: af238b260179c884b93aa3248768f90b, type: 3}
+    - {fileID: 21300000, guid: d693da8ebc165674b9509bab6391e358, type: 3}
+  - SceneName: PassageGame
+    DisplayName: Passage
+    Description: 
+    Backgrounds:
+    - {fileID: 21300000, guid: 2650407d6311724489f3256696e75bb0, type: 3}
+    - {fileID: 21300000, guid: af238b260179c884b93aa3248768f90b, type: 3}
+  - SceneName: 2
+    DisplayName: Passage
+    Description: 
+    Backgrounds:
+    - {fileID: 21300000, guid: 2650407d6311724489f3256696e75bb0, type: 3}
+    - {fileID: 21300000, guid: af238b260179c884b93aa3248768f90b, type: 3}
+  TipsList:
+  - Create beutifull loading screens for improved your game
+  - Easy to use and implement
+  - remember that have 3 diferent styles for select.
+  - Create how much Tips as you want
+  - Improved the look of your game with awasome backgrounds.
+  - A good background sound increase the motivation of players.
+  - remember that have 3 diferent styles for select.
